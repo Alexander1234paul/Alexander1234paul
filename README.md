@@ -33,6 +33,10 @@ Experience with Kubernetes, AWS, CI/CD, observability, secure networking, and mo
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" width="55" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="55" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="55" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="55" />
+  <img src="https://about.gitlab.com/images/press/logo/svg/gitlab-logo-500.svg" width="55" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Bitbucket-blue-logomark-only.svg/1200px-Bitbucket-blue-logomark-only.svg.png" width="50" />
+  <img src="https://companieslogo.com/img/orig/HNS-8b361fd4.png?t=1722687657" width="55" />
 </p>
 
 ---
@@ -50,6 +54,11 @@ Experience with Kubernetes, AWS, CI/CD, observability, secure networking, and mo
 
 ### 💻 Full Stack Development
 <p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="55" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="55" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="55" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="55" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="55" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="55" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="55" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="55" />
@@ -68,15 +77,8 @@ Experience with Kubernetes, AWS, CI/CD, observability, secure networking, and mo
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="55" />
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="55" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="55" />
-</p>
-
----
-
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Alexander1234paul&show_icons=true&theme=react" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexander1234paul&layout=compact&theme=react" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="55" />
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="55" />
 </p>
 
 ---
